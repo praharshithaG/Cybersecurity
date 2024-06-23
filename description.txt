@@ -1,0 +1,7 @@
+Hello guys!I have done a cybersecurity project i.e, "PASSWORD STRENGTH MANAGER" which haves an advance features like
+-toggle button to hide/show Password
+-User's criteria whether to use specific characters or not
+-visualization of strength of the password
+-saves the password in a text file separately
+-Generate passwords automatically
+Using TKINTER module, PYTHON
